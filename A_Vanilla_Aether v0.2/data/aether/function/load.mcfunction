@@ -1,0 +1,1 @@
+tellraw @a "Welcome to A Vanilla Aether v 0.2"

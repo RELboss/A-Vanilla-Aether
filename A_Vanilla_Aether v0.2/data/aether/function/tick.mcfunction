@@ -1,0 +1,2 @@
+execute as @a run execute at @a run execute if entity @s in minecraft:overworld run execute if block ~ ~-1 ~ glowstone run execute if block ~ ~ ~ water run execute if block ~ ~1 ~ water run execute in aether:aether run tp @s 0 100 0
+execute as @a run execute at @a run execute if entity @s in aether:aether run execute if block ~ ~-1 ~ glowstone run execute if block ~ ~ ~ water run execute if block ~ ~1 ~ water run execute in minecraft:overworld run tp @s 0 100 0

@@ -1,0 +1,45 @@
+{
+  "temperature": 0.37,
+  "downfall": 0.4,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 8355485,
+    "fog_color": 8553136,
+    "water_color": 3232114,
+    "water_fog_color": 329011,
+    "grass_color": 8376988,
+    "foliage_color": 9813855,
+    "grass_color_modifier": "none",
+    "particle": {
+      "options": {
+        "type": "minecraft:dust",
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "scale": 0.01
+      },
+      "probability": 1
+    }
+  },
+  "spawners": {
+    "creature": [
+      {
+        "type": "minecraft:sheep",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 5
+      }
+    ]
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave"
+    ]
+  },
+  "features": [
+    "minecraft:oak_checked"
+  ]
+}
