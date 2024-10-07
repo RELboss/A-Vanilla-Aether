@@ -8,4 +8,4 @@ https://www.planetminecraft.com/data-pack/a-vanilla-aether/
 https://relboss.github.io/A-Vanilla-Aether/
 
 ## Snapshots (UNSTABLE, NOT HEAVILY TESTED) are at:
-https://github.com/RELboss/A-Vanilla-Aether-Snapshots
+https://github.com/RELboss/A-Vanilla-Aether-Snapshots/releases
