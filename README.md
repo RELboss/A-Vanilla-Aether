@@ -1,6 +1,4 @@
-<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-  
-    <div class="container mt-5">
+
         <h1 class="text-center">A Vanilla Aether Releases</h1>
 <a href="https://github.com/RELboss/A-Vanilla-Aether" class="btn btn-primary" tabindex="-1" role="button">GitHub</a>
 <a href="https://www.planetminecraft.com/data-pack/a-vanilla-aether/" class="btn btn-success" tabindex="-1" role="button">Planet Minecraft</a>
@@ -50,15 +48,6 @@ Make it as followings:
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 mb-4">
-                <div class="card release-card">
-                    <div class="card-body">
-                        <h5 class="card-title">Version 0.3:The Trees, Highlands and Portals Update</h5>
-                        <h6 class="card-subtitle mb-2 text-muted">Initial Release</h6>
-                        <p class="card-text">This is a release coming soon</p>
-                        <a href="https://example.com" class="btn btn-primary">Coming Soon</a>
-                    </div>
-                </div>
-            </div>
+        
         </div>
-    </div>
+    
