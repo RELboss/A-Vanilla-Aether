@@ -1,4 +1,4 @@
-<h1>A Vanilla Aether Releases</h1>
+<h1>A Vanilla Aether</h1>
 <a href="https://github.com/RELboss/A-Vanilla-Aether" class="btn btn-primary" tabindex="-1" role="button">GitHub</a>
 <a href="https://www.planetminecraft.com/data-pack/a-vanilla-aether/" class="btn btn-success" tabindex="-1" role="button">Planet Minecraft</a>
 <a href="https://github.com/RELboss/A-Vanilla-Aether-Snapshots/releases" class="btn btn-dark" tabindex="-1" role="button">Snapshots (Unstable)</a>
@@ -43,6 +43,6 @@ Make it as followings:
 </p>
                         <p class="card-text mt-1">Warning: You might need structure voids to help the water stay in place</p>
 
-                        <a href="https://github.com/RELboss/A-Vanilla-Aether/releases/download/02/A_Vanilla_Aether.v0.2.zip">Download Datapack (JAVA 1.21)</a>
+                        <a href="https://github.com/RELboss/A-Vanilla-Aether/releases/download/02/A_Vanilla_Aether.v0.2.zip" class="btn">Download Datapack (JAVA 1.21)</a>
                 
     
